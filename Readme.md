@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="image.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rahul</h1>
-<h3 align="center">2⭐ Codechef | 2⭐ Leetcode | Tech Enthusiastic | Love to Code</h3>
+<h3 align="center">3⭐ Codechef | 2⭐ Leetcode | Tech Enthusiastic | Love to Code</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -8,7 +8,7 @@
 
 - 🌱 I’m learning **Data Structures and Algorithms.**
 
-- 💬 Ask me about **C++,Python,Java,MySQL**
+- 💬 Ask me about **C,C++,Python,Java,MySQL**
 
 - 📫 How to reach me **rahulagarwal2611@gmail.com**
 
