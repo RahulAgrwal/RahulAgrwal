@@ -18,7 +18,7 @@
 <a href="https://www.codechef.com/users/rahulaga26" target="blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="rahulaga26" height="40" width="40" /></a>
 <a href="https://codeforces.com/profile/_rahul_ag_" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png" alt="_rahul_ag_" height="30" width="30" /></a>
 <a href="https://www.leetcode.com/_rahul_ag_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="_rahul_ag_" height="32" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rahulagarwal1126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rahulagarwal1126" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rahulagarwal1126/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rahulagarwal1126" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rahulagarwal1126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rahulagarwal1126" height="30" width="40" /></a>
 </p>
 
