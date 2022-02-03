@@ -28,7 +28,7 @@
 ## 📊 My Github Stats:
 <p align="center">
     <a href="https://github.com/RahulAgrwal/github-readme-streak-stats">
-        <img alt="Rahul Agarwal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulAgrwal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img alt="Rahul Agarwal's streak" src="https://github-readme-streak-stats.herokuapp.com?user=RahulAgrwal&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
   <br/>
     <a href="https://github.com/RahulAgrwal/github-readme-stats"><img alt="Rahul Agarwal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RahulAgrwal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
