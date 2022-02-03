@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="image.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rahul Agarwal</h1>
-<h3 align="center">3⭐ [Codechef](https://www.codechef.com/users/rahulaga26/) | 2⭐ [Leetcode](https://www.leetcode.com/_rahul_ag_/) | Tech Enthusiastic | Love to Code</h3>
+<h3 align="center">3⭐ Codechef | 2⭐ Leetcode | Tech Enthusiastic | Love to Code</h3>
 
 
 ## 🙋‍♂️ About Me
