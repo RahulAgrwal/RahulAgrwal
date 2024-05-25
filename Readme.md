@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="image.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rahul Agarwal</h1>
-<h3 align="center">Software Develpoer | 3⭐ Codechef | 2⭐ Leetcode | Tech Enthusiastic | Love to Code</h3>
+<h3 align="center">Software Developer | 3⭐ Codechef | 2⭐ Leetcode | Tech Enthusiastic | Love to Code</h3>
 
 ## 🙋‍♂️ About Me
 
