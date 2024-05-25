@@ -10,7 +10,7 @@
 
 - 🌱 I’m learning **Data Structures and Algorithms.**
 
-- 💬 Ask me about **Java, Spring Boot, Maven , Python ,MySQL**
+- 💬 Ask me about **Java, Spring Boot, Maven, Python, MySQL**
 
 - 📫 How to reach me **rahulagarwal2611@gmail.com**
 
